@@ -8,3 +8,6 @@ To keep track of tools I've used in my work.
 
 ### Graphs
 [Clauset-Newman-Moore](https://arxiv.org/pdf/cond-mat/0408187.pdf) - Community detection algorithm | [Python](https://github.com/ekzhu/datasketch)
+
+### Models
+[Bahdanau Attention](https://arxiv.org/pdf/1409.0473.pdf) - RNN with attention | [Python](https://www.tensorflow.org/tutorials/text/nmt_with_attention)
