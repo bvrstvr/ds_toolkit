@@ -1,6 +1,7 @@
-# Data Science Toolkit
-To keep track of tools and processes I've used in my work.
+# bvrstvr's Knowledge Base
+Personal knowledge base for various things and stuff
 
+## Data Science
 ### Documents
 [Minhash + LSH](http://infolab.stanford.edu/~ullman/mmds/ch3.pdf) - Document similarity in linear time | [Python](https://github.com/ekzhu/datasketch)
 
@@ -12,3 +13,7 @@ To keep track of tools and processes I've used in my work.
 
 ### Models
 [Bahdanau Attention](https://arxiv.org/pdf/1409.0473.pdf) - RNN with attention | [Python](https://www.tensorflow.org/tutorials/text/nmt_with_attention)
+
+### Word Embeddings
+[ELMo](https://arxiv.org/pdf/1802.05365.pdf) - Contextualized word representations | [Data](https://allennlp.org/elmo)
+[GloVe](https://nlp.stanford.edu/pubs/glove.pdf) - Global word vector representations | [Data](https://nlp.stanford.edu/projects/glove/)
