@@ -12,6 +12,8 @@ Personal knowledge base for various things and stuff
 
 ### Neural Networks
 #### Activation Functions
+[ReLU](https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/) - Linear for values greater than 0
+
 [Softmax](https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d) - Turns a vector of logits into a vector of probabilities that sum to 1
 
 #### Models
