@@ -16,4 +16,5 @@ Personal knowledge base for various things and stuff
 
 ### Word Embeddings
 [ELMo](https://arxiv.org/pdf/1802.05365.pdf) - Contextualized word representations | [Data](https://allennlp.org/elmo)
+
 [GloVe](https://nlp.stanford.edu/pubs/glove.pdf) - Global word vector representations | [Data](https://nlp.stanford.edu/projects/glove/)
