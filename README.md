@@ -6,7 +6,7 @@ Personal knowledge base for various things and stuff
 [Minhash + LSH](http://infolab.stanford.edu/~ullman/mmds/ch3.pdf) - Document similarity in linear time | [Python](https://github.com/ekzhu/datasketch)
 
 [TF-IDF](http://tfidf.com) - Weight representing the relative frequency of a word in a corpus
-* Can be used to encode n-grams when vectorizing text
+* Can be used to encode n-grams when [vectorizing text](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfTransformer.html)
 
 ### Graphs
 [Clauset-Newman-Moore](https://arxiv.org/pdf/cond-mat/0408187.pdf) - Community detection algorithm | [Python](https://github.com/ekzhu/datasketch)
