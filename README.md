@@ -9,7 +9,7 @@ Personal knowledge base for various things and stuff
 * Can be used to encode n-grams when vectorizing text | [Python](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfTransformer.html)
 
 ### Graphs
-[Clauset-Newman-Moore](https://arxiv.org/pdf/cond-mat/0408187.pdf) - Community detection algorithm | [Python](https://github.com/ekzhu/datasketch)
+[Clauset-Newman-Moore](https://arxiv.org/pdf/cond-mat/0408187.pdf) - Community detection algorithm | [Python](https://networkx.github.io/documentation/stable/reference/algorithms/generated/networkx.algorithms.community.modularity_max.greedy_modularity_communities.html)
 
 ### Neural Networks
 #### Activation Functions
